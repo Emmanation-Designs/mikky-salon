@@ -1,0 +1,6 @@
+{
+  "name": "Mikkys Barbing Salon",
+  "description": "Premium barbershop website and WhatsApp order booking system for Mikkys Barbing Salon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
